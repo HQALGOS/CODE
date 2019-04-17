@@ -1,0 +1,2 @@
+# oyun
+oyun için kodlar
