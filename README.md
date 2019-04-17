@@ -1,2 +1,2 @@
-# oyun
-oyun için kodlar
+# BOSSCODE
+.-.-.-.-.-.-
